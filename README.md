@@ -16,7 +16,7 @@ and Machine Learning.
 - EDA
 - Dashboard
 - Machine Learning Prediction
-- 
+  
 # Results
 - Identified addiction patterns
 - Predicted addiction levels
